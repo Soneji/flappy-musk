@@ -1,3 +1,3 @@
-# FlappyBird - elon style
+# flappy-musk 
 
 flappy bird, but elon style (all html/static)
