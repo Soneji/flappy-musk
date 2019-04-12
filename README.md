@@ -1,2 +1,3 @@
-# FlappyBird
-A game that is maked by canvas.
+# flappy-musk 
+
+flappy bird, but elon style (all html/static)
